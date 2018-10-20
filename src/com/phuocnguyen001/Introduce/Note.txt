@@ -1,0 +1,16 @@
+
+
+- JSON(JavaScript Object Notation) to read and write data exchange format. For those don't like XML.
+- Conventions used by JSON are known to programmers:
+	+ The format was specified by DOUGLAS - CROCKFORD.
+	+ It was designed for human-readable data interchange.
+	+ It has been extended from the JavaScript scripting language.
+	+ The filename extension is .JSON.
+	+ JSON Internet Media type is application/JSON.
+	+ The Uniform Type Identifier is public.json.
+	
+- To encode a JSON object using Java JSONObject which is a subclass of java.util.HashMap.
+- To decode a JSON object makes use of JSONObject and JSONArray where JSONObject is a java.util.Map and JSONArray is a java.util.List, so you can access them with standard operations of Map or List.
+	
+[Reference]
+- https://www.tutorialspoint.com/json/json_overview.htm
