@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="D:/Program Files/json-simple-1.1.jar/json-simple-1.1.jar"/>
 	<classpathentry kind="lib" path="D:/Program Files/json-schema-validator-2.1.0.jar/json-schema-validator-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/media/david/Programming/Program Files/json-simple-1.1.jar/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/media/david/Programming/Program Files/json-schema-validator-2.1.0.jar/json-schema-validator-2.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
