@@ -1,9 +1,1 @@
-{
-  "id": 1,
-  "name": "DavidNguyen",
-  "personal": [
-    "gender",
-    "locate",
-    "from"
-  ]
-}
+{"name":"DavidNguyen","personal":["gender","locate","from"],"id":1}
